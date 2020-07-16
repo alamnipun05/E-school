@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.btn-btn{
+    border: none;
+    border-radius: 10px;
+    background-color: #21B573;
+    color: white;
+}
+.first-text{
+    color: tomato;
+}
+.con-one{
+    background-color: #F0FFF0;
+}
+.i-box{
+    box-shadow: 5px 5px 10px;
+    
+}
+.new-text{
+    text-align: center;
+    color: #21B573;;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+
+
+}
+.lor-text{
+    color: black;
+}
+.con-last{
+     background-color: #282531;
+}
+.com-text{
+    color: white;
+}
